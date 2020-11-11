@@ -1,0 +1,29 @@
+body { 
+background-color: #92b5ff; 
+}
+
+form { 
+background-color: #FFFFFF; 
+margin-top: 50px;
+margin-bottom: 100px;
+margin-right: 530px;
+margin-left: 530px;
+Padding: 4px
+}
+
+
+nav {
+background-color: #FFFFFF; 
+text-align: right;
+Padding: 15px;
+border-radius: 4px;
+}
+
+button{
+    color: rgb(255, 255, 255);
+background-color: rgb(70, 88, 252);
+border-radius: 4px;
+}
+h1{
+    text-align: left;
+}
